@@ -22,3 +22,7 @@ While also following specific guidelines which are:
 4. Visualize the data for better understandment
 5. Applying the model for predicting while cross validating the results
 6. Tune model features for better results and run the model again.
+
+### Dataset
+The dataset can found in the following link:
+https://www.kaggle.com/paololol/league-of-legends-ranked-matches/data
